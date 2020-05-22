@@ -1,4 +1,4 @@
-name: firstly
+name: first
 
 on: push
 
@@ -10,7 +10,7 @@ jobs:
         - name: step One
           uses: actions/checkout@v2
         - name: step two
-          run: env|sort
+          run: env | sort
 
 
     job2:
