@@ -1,5 +1,5 @@
-# Build Status Badge: ![](https://github.com/yashikajayasinghe/learn-git-actions/workflows/first/badge.svg)
-# learn-git-actions
+ 
+# learn-git-actions   ![](https://github.com/yashikajayasinghe/learn-git-actions/workflows/first/badge.svg)
 
 ## Git Actions
  
